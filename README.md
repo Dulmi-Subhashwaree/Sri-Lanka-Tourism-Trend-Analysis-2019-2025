@@ -144,9 +144,7 @@ for data-driven tourism policy and planning decisions.
 ---
 
 ## Author
-W.M. Dulmi Subhashwaree
-Undergraduate
-Bsc in Applied Data Science Communication 
+W.M. Dulmi Subhashwaree (Undergraduate_Bsc in Applied Data Science Communication) 
 
 ---
 
