@@ -79,7 +79,7 @@ for interactive dashboard visualization.
 - Full year 2021: **-89.8%** vs 2019 baseline
 - Total lost arrivals: over **1.4 million**
 
-### 📈 Recovery Journey — 2022 to 2025
+### Recovery Journey — 2022 to 2025
 | Year | Total Arrivals | Recovery vs 2019 |
 |---|---|---|
 | 2022 | 719,978 | 37.6% |
