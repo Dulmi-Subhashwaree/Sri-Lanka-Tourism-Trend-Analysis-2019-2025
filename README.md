@@ -1,4 +1,4 @@
-#Analyzing Sri Lanka Tourism Trends and Major Event Impacts (2019–2025)
+# Analyzing Sri Lanka Tourism Trends and Major Event Impacts (2019–2025)
 
 ## Overview
 This project analyzes tourist arrivals to Sri Lanka from 2019 to 2025
