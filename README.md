@@ -66,13 +66,13 @@ for interactive dashboard visualization.
 
 ## Key Findings
 
-### 🐣 Easter Sunday Attacks — April 21, 2019
+### Easter Sunday Attacks — April 21, 2019
 - Pre-attack monthly average: 246,867 arrivals
 - May 2019 dropped to just 37,802 arrivals
 - Impact: **-84.7%** vs pre-attack average
 - Full recovery achieved within **6 months**
 
-### 🦠 COVID-19 Pandemic — March 2020
+### COVID-19 Pandemic — March 2020
 - Borders closed March 2020
 - Only **393 total arrivals** from April to December 2020
 - Full year 2020: **-73.5%** vs 2019 baseline
@@ -84,10 +84,10 @@ for interactive dashboard visualization.
 |---|---|---|
 | 2022 | 719,978 | 37.6% |
 | 2023 | 1,487,303 | 77.7% |
-| 2024 | 2,053,465 | ✅ 107.3% Full Recovery |
-| 2025 | 2,362,521 | 🏆 123.5% New Record |
+| 2024 | 2,053,465 | 107.3% Full Recovery |
+| 2025 | 2,362,521 | 123.5% New Record |
 
-### 🌍 Market Insights
+### Market Insights
 - India is the number one source market
   with 1,874,960 total arrivals over 7 years
 - South Asia leads regionally at 33.6% market share
